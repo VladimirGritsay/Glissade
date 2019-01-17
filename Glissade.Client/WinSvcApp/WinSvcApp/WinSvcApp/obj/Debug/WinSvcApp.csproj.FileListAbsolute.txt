@@ -1,0 +1,10 @@
+F:\Sharp\Glissade.Client\WinSvcApp\WinSvcApp\WinSvcApp\bin\Debug\WinSvcApp.pdb
+F:\Sharp\Glissade.Client\WinSvcApp\WinSvcApp\WinSvcApp\obj\Debug\WinSvcApp.ProjectInstaller.resources
+F:\Sharp\Glissade.Client\WinSvcApp\WinSvcApp\WinSvcApp\obj\Debug\WinSvcApp.csproj.GenerateResource.cache
+F:\Sharp\Glissade.Client\WinSvcApp\WinSvcApp\WinSvcApp\obj\Debug\WinSvcApp.csproj.CoreCompileInputs.cache
+F:\Sharp\Glissade.Client\WinSvcApp\WinSvcApp\WinSvcApp\obj\Debug\WinSvcApp.pdb
+F:\Sharp\Glissade.Client\WinSvcApp\WinSvcApp\WinSvcApp\obj\Debug\WinSvcApp.WinService.resources
+F:\Sharp\Glissade.Client\WinSvcApp\WinSvcApp\WinSvcApp\bin\Debug\WinSvcApp.dll.config
+F:\Sharp\Glissade.Client\WinSvcApp\WinSvcApp\WinSvcApp\bin\Debug\WinSvcApp.dll
+F:\Sharp\Glissade.Client\WinSvcApp\WinSvcApp\WinSvcApp\obj\Debug\WinSvcApp.dll
+F:\Sharp\Glissade.Client\WinSvcApp\WinSvcApp\WinSvcApp\obj\Debug\WinSvcApp.csprojAssemblyReference.cache

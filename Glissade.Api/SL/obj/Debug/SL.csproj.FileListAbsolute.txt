@@ -1,0 +1,7 @@
+F:\Sharp\Glissade.Api\SL\obj\Debug\SL.csproj.CoreCompileInputs.cache
+F:\Sharp\Glissade.Api\SL\bin\Debug\SL.exe.config
+F:\Sharp\Glissade.Api\SL\bin\Debug\SL.exe
+F:\Sharp\Glissade.Api\SL\bin\Debug\SL.pdb
+F:\Sharp\Glissade.Api\SL\obj\Debug\SL.exe
+F:\Sharp\Glissade.Api\SL\obj\Debug\SL.pdb
+F:\Sharp\Glissade.Api\SL\obj\Debug\SL.csprojAssemblyReference.cache
