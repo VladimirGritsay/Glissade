@@ -1,0 +1,18 @@
+<div>
+  <form>
+    <div class="col-md-3">
+      <div>
+        <input class="form-control" type="text" [(ngModel)]="email" name="myEmail" placeholder="Email">
+      </div>
+      <div>
+        <input class="form-control" type="password" [(ngModel)]="password" name="myPassword" placeholder="Password">
+      </div>
+      <div>
+        <input class="form-control" type="password" [(ngModel)]="confirmPassword" name="myConfirmPassword"
+          placeholder="ConfirmPassword">
+      </div>
+      <button class="btn btn-primary" (click)="SendRegistrData()">Reg</button>
+      <button class="btn btn-primary" (click)="CleanStorage()">CleanStorage</button>
+    </div>
+  </form>
+</div>
