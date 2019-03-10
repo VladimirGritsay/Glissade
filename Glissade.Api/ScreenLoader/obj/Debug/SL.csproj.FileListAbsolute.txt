@@ -1,8 +1,0 @@
-F:\Sharp\Glissade.Api\ScreenLoader\obj\Debug\SL.csproj.CoreCompileInputs.cache
-F:\Sharp\Glissade.Api\ScreenLoader\bin\Debug\ScreenLoader.dll
-F:\Sharp\Glissade.Api\ScreenLoader\bin\Debug\ScreenLoader.pdb
-F:\Sharp\Glissade.Api\ScreenLoader\obj\Debug\ScreenLoader.dll
-F:\Sharp\Glissade.Api\ScreenLoader\obj\Debug\ScreenLoader.pdb
-F:\Sharp\Glissade.Api\ScreenLoader\bin\Debug\System.ValueTuple.dll
-F:\Sharp\Glissade.Api\ScreenLoader\bin\Debug\System.ValueTuple.xml
-F:\Sharp\Glissade.Api\ScreenLoader\obj\Debug\SL.csproj.CopyComplete
